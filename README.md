@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi Everyone 👋
+My Name is
+Muhammad Abdul Rehman
+I am Software Engineering Student at University Of Engineering And Technology Lahore
 
 <!--
 **muhammadabdulrehman132np-afk/muhammadabdulrehman132np-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
